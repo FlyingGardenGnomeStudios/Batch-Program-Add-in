@@ -1,0 +1,14 @@
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\Batch Program.dll.config
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\Batch Program.dll
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\Batch Program.pdb
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\.xml
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\AddinNETFramework.AdWebServicesWrapper.dll
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\autodesk.inventor.interop.dll
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\RestSharp.dll
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\bin\Debug\RestSharp.xml
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\Batch Program.vbprojResolveAssemblyReference.cache
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\BatchProgram.Resources.resources
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\Batch Program.vbproj.GenerateResource.Cache
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\Batch Program.dll
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\.xml
+\\server03\users$\tfehr\My Documents\GitHub\Batch-Program-Add-in\Batch Program\obj\Debug\Batch Program.pdb
